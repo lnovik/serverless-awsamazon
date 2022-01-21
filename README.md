@@ -23,5 +23,5 @@ Nome do autor: 'lnovik'
 
 # Serverless Framework Node HTTP API na AWS
 
-Este modelo demonstra como fazer uma API HTTP simples com Node.js em execução no AWS Lambda e API Gateway usando o Serverless Framework.
+Este modelo demonstra como fazer uma API HTTP simples com Node.js em execução no AWS Lambda e API Gateway usando o Serverless Framework. 
 
